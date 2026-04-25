@@ -34,3 +34,10 @@ A aplicação é estruturada em três pilares principais:
   - Thunder Client
   - Google Fonts
   - Git
+
+## Contato 
+### Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieweles/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliedevw@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nataliewf.github.io)
